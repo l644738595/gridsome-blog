@@ -18,6 +18,19 @@
   </Layout>
 </template>
 
+<page-query>
+query {
+  posts: allStrapiPost {
+    edges {
+      node {
+        id
+        title
+      }
+    }
+  }
+}
+</page-query>
+
 <script>
 export default {
   metaInfo: {
