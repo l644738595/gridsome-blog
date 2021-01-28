@@ -1,14 +1,12 @@
-# Default starter for Gridsome
+# 预览地址
 
-This is the project you get when you run `gridsome create new-project`.
+[https://gridsome-blog-8c8hf3cts.vercel.app/](https://gridsome-blog-8c8hf3cts.vercel.app/)
 
-### 1. Install Gridsome CLI tool if you don't have
+### 1. 前端代码
 
-`npm install --global @gridsome/cli`
+[https://gitee.com/l644738595/blog](https://gitee.com/l644738595/blog)
 
-### 2. Create a Gridsome project
+### 2. 后端代码
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+[https://gitee.com/l644738595/blog-api](https://gitee.com/l644738595/blog-api)
+
